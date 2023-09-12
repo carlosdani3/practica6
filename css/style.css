@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+td{
+    vertical-align: text-top;
+}
+ul{
+    list-style-type: none;
+}
+ul li{
+    font-family: 'segoe UI', tahoma, geneva, verdana, sans-serif;
+    font-family: 22px;
+    height: 60px;
+}
+ul li a{
+    height: 60 px;
+    background-color: #187faf;
+    display: block;
+    border-left: 10px solid #c2c8da;
+    border-right: 5px solid #128f70;
+    padding-left: 15px;
+    text-decoration: none;
+    color: aqua;
+
+}
+ul li a:hover{
+    margin-left: 10px;
+    color: #128f70;
+    background-color: rgb(175, 20, 20);
+    box-shadow: 10px 10px 20px #1a1b17;
+    transform: rotate(4deg);
+}
+td{
+    vertical-align: top;
+}
